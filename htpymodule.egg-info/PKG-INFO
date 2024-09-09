@@ -1,28 +1,35 @@
 Metadata-Version: 2.1
-Name: ht-py-module
-Version: 0.11
+Name: htpymodule
+Version: 0.2
 Summary: A very simple example module for basic arithmetic operations.
 Home-page: https://pypi.org/project/ht-py-module/
 Author: Jason Dsouza, ChatGPT, and Hongtao Hao
 Author-email: hhao9@wisc.edu
 Description-Content-Type: text/markdown
 
-# Base Very Simple Module
+# A Sample Simple Python Module
 
 This package provides a very simple example module with basic arithmetic operations.
 
 ## Installation
 
-You can install the package using pip:
+You can install the package locally:
 
 ```bash
+git clone https://github.com/hongtaoh/htpymodule
 pip install .
+```
+
+or through PyPI:
+
+```bash
+pip install htpymodule
 ```
 
 ## Usage
 
 ```py
-from verysimplemodule import add, subtract, multiply, divide
+from htpymodule import add, subtract, multiply, divide
 
 print(add(1, 2))         # Output: 3
 print(subtract(5, 3))    # Output: 2

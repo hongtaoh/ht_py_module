@@ -7,20 +7,20 @@ This package provides a very simple example module with basic arithmetic operati
 You can install the package locally:
 
 ```bash
-git clone https://github.com/hongtaoh/ht_py_module
+git clone https://github.com/hongtaoh/htpymodule
 pip install .
 ```
 
 or through PyPI:
 
 ```bash
-pip install ht-py-module
+pip install htpymodule
 ```
 
 ## Usage
 
 ```py
-from verysimplemodule import add, subtract, multiply, divide
+from htpymodule import add, subtract, multiply, divide
 
 print(add(1, 2))         # Output: 3
 print(subtract(5, 3))    # Output: 2

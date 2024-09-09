@@ -1,9 +1,0 @@
-README.md
-setup.py
-ht_py_module/__init__.py
-ht_py_module/add.py
-ht_py_module/subtract.py
-ht_py_module.egg-info/PKG-INFO
-ht_py_module.egg-info/SOURCES.txt
-ht_py_module.egg-info/dependency_links.txt
-ht_py_module.egg-info/top_level.txt

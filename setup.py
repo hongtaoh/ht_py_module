@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="ht_py_module",
-    version="0.11",
+    name="htpymodule",
+    version="0.2",
     packages=find_packages(),
     description="A very simple example module for basic arithmetic operations.",
     long_description=open('README.md').read(),  # Read the content of your README file for a long description
