@@ -1,4 +1,4 @@
-# Base Very Simple Module
+# A Sample Simple Python Module
 
 This package provides a very simple example module with basic arithmetic operations.
 
@@ -7,6 +7,7 @@ This package provides a very simple example module with basic arithmetic operati
 You can install the package locally:
 
 ```bash
+git clone https://github.com/hongtaoh/ht_py_module
 pip install .
 ```
 
