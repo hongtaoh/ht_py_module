@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: htpymodule
-Version: 0.2
+Version: 0.3.1
 Summary: A very simple example module for basic arithmetic operations.
-Home-page: https://pypi.org/project/ht-py-module/
+Home-page: https://github.com/hongtaoh/htpymodule/
 Author: Jason Dsouza, ChatGPT, and Hongtao Hao
 Author-email: hhao9@wisc.edu
 Description-Content-Type: text/markdown
